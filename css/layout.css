@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+    margin:0px auto;
+}
+#sup {
+    background-color:orange;
+    width:260px;
+    font-size:28px;
+    padding:10px;
+    font-family:futura;
+    color:white;
+}
+h1 {
+    font-family:futura;
+    color:orange;
+    font-size:60px;
+    text-align:center;
+}
+#purple{
+    background-color:#CCCCFF ;
+}
+#manhattan {
+    visibility:hidden;
+     position: fixed;
+    top: 450px;
+    left: 475px;
+  padding-bottom:60px;
+}
+#bronx {
+    visibility:hidden;
+     position: fixed;
+    top: 450px;
+    left: 475px;
+     padding-bottom:60px;
+}
+#statenisland {
+    visibility:hidden;
+     position: fixed;
+    top: 450px;
+    left: 475px;
+      padding-bottom:60px;
+}
+#brooklyn {
+    visibility:hidden;
+     position: fixed;
+    top: 450px;
+    left: 475px;
+     padding-bottom:60px;
+}
+#queens {
+    visibility:hidden;
+     position: fixed;
+    top: 450px;
+    left: 475px;
+   padding-bottom:60px;
+}
+
+div {
+    font-family:futura;
+    text-align:center;
+    font-size:40px;
+}
+#formSubmit {
+    font-size:24px;
+}
