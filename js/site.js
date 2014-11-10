@@ -42,9 +42,9 @@ function onCheckForm(event)
 		case "manhattan":
 			 
 			
-			document.getElementById('manhattan').style.visibility = "visible";
+			document.getElementById('manhattan').style.display = "block";
 			if(lastVisibleItem != null){
-				lastVisibleItem.style.visibility = "hidden";
+				lastVisibleItem.style.display = "none";
 			}
 			lastVisibleItem = document.getElementById('manhattan');
 			console.log("manhattan was selected");
