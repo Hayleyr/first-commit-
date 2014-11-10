@@ -30,27 +30,29 @@ h1 {
 #bronx {
     visibility:hidden;
       padding-bottom:60px;
-         margin-bottom:60px;
+        
+         margin:0px auto;
  
  
 }
 #statenisland {
     visibility:hidden;
       padding-bottom:60px;
-         margin-bottom:60px;
+       margin:0px auto;
+       
    
  
 }
 #brooklyn {
     visibility:hidden;
       padding-bottom:60px;
-         margin-bottom:60px;
+      margin:0px auto;
  
 }
 #queens {
     visibility:hidden;
       padding-bottom:60px;
-      margin-bottom:60px;
+     margin:0px auto;
 
 }
 
