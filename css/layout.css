@@ -22,7 +22,7 @@ h1 {
     background-color:#CCCCFF ;
 }
 #manhattan {
-     visibility: hidden;
+    display:none;
 padding-bottom: 60px;
 
 padding-top: 60px;
