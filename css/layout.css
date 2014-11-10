@@ -31,30 +31,20 @@ h1 {
 #bronx {
     visibility:hidden;
      position: fixed;
-    top: 450px;
-    left: 475px;
-     padding-bottom:60px;
+ 
 }
 #statenisland {
     visibility:hidden;
      position: fixed;
-    top: 450px;
-    left: 475px;
-      padding-bottom:60px;
+ 
 }
 #brooklyn {
     visibility:hidden;
-     position: fixed;
-    top: 450px;
-    left: 475px;
-     padding-bottom:60px;
+ 
 }
 #queens {
     visibility:hidden;
-     position: fixed;
-    top: 450px;
-    left: 475px;
-   padding-bottom:60px;
+
 }
 
 div {
